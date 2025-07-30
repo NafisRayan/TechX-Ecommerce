@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="40" viewBox="0 0 125 40" fill="none">
+  <g font-family="'Segoe UI', Arial, sans-serif" font-weight="bold" font-size="32" dominant-baseline="middle">
+    <!-- "T", "E", "C", "H" in #393939 -->
+    <text x="0" y="28" fill="#393939">T</text>
+    <text x="20" y="28" fill="#393939">E</text>
+    <text x="40" y="28" fill="#393939">C</text>
+    <text x="60" y="28" fill="#393939">H</text>
+    <!-- "X" in #3772C6, styled like the original -->
+    <text x="85" y="28" fill="#3772C6" font-style="normal" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold">X</text>
+  </g>
+</svg>
