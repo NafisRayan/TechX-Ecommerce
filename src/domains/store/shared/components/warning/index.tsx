@@ -10,7 +10,7 @@ const Warning = () => {
         <div className="flex items-center justify-center gap-3">
           <span>Contact: </span>
           <Link
-            href={"https://www.linkedin.com/in/hossein-namvar/"}
+            href={"https://www.linkedin.com/in/nafisrayan/"}
             title="My LinkedIn Profile"
             target="_blank"
             className="bg-white flex items-center gap-2 px-2 py-1 rounded-[4px] text-blue-500 transition-colors duration-300"
@@ -19,7 +19,7 @@ const Warning = () => {
             LinkedIn
           </Link>
           <Link
-            href={"mailto:hossein.namvar@gmail.com"}
+            href={"mailto:nafisrayan123@gmail.com"}
             title="Send Me an Email!"
             className="bg-white flex items-center gap-2 px-2 py-1 rounded-[4px] text-blue-500 transition-colors duration-300"
           >
