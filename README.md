@@ -1,6 +1,6 @@
 ## Full Stack E-Commerce Website (+ Dashboard) with Next.js 14: React, Typescript, Tailwindcss, Prisma, MongoDB, NextAuth, Redux.
 
-![Fullstack E-Commerce Website](https://res.cloudinary.com/drokemaoa/image/upload/v1709638892/TechXPoster.png)
+![Fullstack E-Commerce Website](public/Poster.png)
 
 ## Overview
 
