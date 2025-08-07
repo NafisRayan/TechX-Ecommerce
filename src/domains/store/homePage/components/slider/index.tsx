@@ -71,7 +71,7 @@ export const HomeSlider = () => {
   }
 
   return (
-    <div className="w-full lg:ml-[272px] h-[240px] sm:h-[500px] rounded-xl overflow-hidden relative hover:[&>.btnContainer]:opacity-100">
+    <div className="w-full h-[240px] sm:h-[500px] rounded-xl overflow-hidden relative hover:[&>.btnContainer]:opacity-100">
       <div className="btnContainer absolute z-[2] left-7 top-0 bottom-0 flex justify-center items-center opacity-0 transition-all duration-500">
         <button
           onClick={() => handleSliding(activeSlideNum - 1)}

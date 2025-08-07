@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import {
   CollectionCards,
   CompanyLogoList,
-  HomeCategoryList,
+  // HomeCategoryList,
   HomeSlider,
   LatestBlogPosts,
   TodayDealCards,
@@ -21,7 +21,7 @@ export default function Home() {
     <div className="w-full bg-mint-500">
       <div className="storeContainer flex-col">
         <div className="flex w-full mt-40">
-          <HomeCategoryList />
+          {/* <HomeCategoryList /> */}
           <HomeSlider />
         </div>
         <WideCardRow cards={threeSaleCards} />
